@@ -1,6 +1,11 @@
 # Lunar-Lander: Reinforcement learning algorithms for training an agent to play the game lunar lander
 A Personal Project aimed to simulate a rocket landing safely on the moon. Its done by training a PPO agent with a reward function and adds a per-frame time penalty via a custom wrapper. 
 
+
+https://github.com/user-attachments/assets/f71ba581-fe95-441c-abca-e9ee86000309
+
+
+
 ## Files and Usage 
 **_run.py_:** This file creates and visualizes the LunarLander environment, where an untrained agent performs random actions at each step. The agent receives observations and rewards from the environment but doesn't know how to control the lander yet. This file serves as an example of an *untrained agent*.
 
